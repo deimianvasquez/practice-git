@@ -2,3 +2,10 @@ body{
   background-color: red;
   color: white;
 }
+ul{
+  color: black;
+}
+ul li{
+  display: inline-block;
+  
+}
