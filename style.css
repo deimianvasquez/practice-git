@@ -1,11 +1,16 @@
 body{
   background-color: red;
   color: white;
+  margin: 0px;
 }
 ul{
-  color: black;
+  color: blue;
 }
 ul li{
   display: inline-block;
-  
+
+}
+nav{
+  border: 1px solid black;
+  background-color: bisque;
 }
