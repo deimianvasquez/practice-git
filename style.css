@@ -1,10 +1,10 @@
 body{
-  background-color: red;
+  background-color: purple;
   color: white;
   margin: 0px;
 }
 ul{
-  color: blue;
+  color: purple;
 }
 ul li{
   display: inline-block;
