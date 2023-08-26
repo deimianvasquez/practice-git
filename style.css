@@ -1,5 +1,5 @@
 body{
-  background-color: purple;
+  background-color: yellow;
   color: white;
   margin: 0px;
 }
@@ -22,7 +22,7 @@ nav{
   width: 20%;
   margin: auto;
   color: blue;
-  border: 1px solid bisque;
+  border: 1px solid greenyellow;
   background-color: blueviolet;
   border-radius: 10px;
 }
